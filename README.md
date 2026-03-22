@@ -1,21 +1,23 @@
-# Advertising Sales Prediction
+# AI Chatbot (Python)
 
-This project analyzes the relationship between advertising spend and sales using Machine Learning.
+This is a simple AI chatbot built using Python.
 
 ## Features
-- Data Analysis
-- Data Visualization
-- Linear Regression Model
+- Takes user input
+- Responds to basic queries
+- Continuous conversation using loop
 
-## Tools Used
+## Technologies Used
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
 
-## Result
-TV and Radio advertising have the highest impact on sales.
+## How to Run
+1. Open terminal
+2. Run: python chatbot.py
+
+## Future Improvements
+- Add AI-based smart responses
+- Integrate NLP
+- Improve conversation handling
 
 ## Author
 Saksham Sharma
